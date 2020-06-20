@@ -19,6 +19,7 @@ function QsMain:switchChange(switchOn)
     end
 end
 
+
 local function handler(msg, editBox)
     if msg == 'on' then
     	QsMain:switchChange(true)
