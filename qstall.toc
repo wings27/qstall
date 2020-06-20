@@ -1,0 +1,11 @@
+## Interface: 11304
+## Title: |cFFFFFFFFqstall|r|cFF00FF00 v1.0.1|r
+## Author: wings27
+## Notes: Stall plugin for selling portal gate etc.
+## Version: 1.0.1
+## RequiredDeps:
+## OptionalDeps:
+## SavedVariables: QStallConfig
+## SavedVariablesPerCharacter: QStallConfigCharacter
+
+qstall.lua
