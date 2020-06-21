@@ -1,4 +1,4 @@
-## Interface: 11304
+## Interface: 11305
 ## Title: |cFFFFFFFFqstall|r|cFF00FF00 v1.0.1|r
 ## Author: wings27
 ## Notes: Stall plugin for selling portal gate etc.
